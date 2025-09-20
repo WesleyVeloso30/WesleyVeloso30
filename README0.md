@@ -16,30 +16,25 @@
 ### Redes sociais📱
 
 <div>
-<a href="https://www.youtube.com/@BlackAcademy-564" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Youtube-%23FF0033?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/breno-nascimento-oliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/allblack_arts/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wesley-veloso-a173a2258/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/wesleyveloso__/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
 
 # Minhas Experiêcias✨
 
-## 🚀 Professor de desenvolvimento Mobile RocketSeat
-<img align="right" alt="" height="150px" src="https://private-user-images.githubusercontent.com/94801880/412525407-5f63f5a2-6079-4771-ad8f-c0786604f970.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1NjYzNjEsIm5iZiI6MTc0MjU2NjA2MSwicGF0aCI6Ii85NDgwMTg4MC80MTI1MjU0MDctNWY2M2Y1YTItNjA3OS00NzcxLWFkOGYtYzA3ODY2MDRmOTcwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE0MDc0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyZGY4OTlkZDU5ZGI0MTRlNjk2YTI1Nzk1NDRiMDI0MTlhMzFlN2YxMjIzZDRmNGI2MzE1ZTU1OGRiMTFkYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IgZU0gkdF95ep9uCgATSkznvpgUZVUtwfMYx3KJnIjc">
+## 🚀 Desenvolvedor Backend e Analista de Suporte na MB Labs
 
-📚 Atuo como Instrutor de Desenvolvimento Mobile com foco em React Native, criando aulas dinâmicas e atualizadas com as mais recentes tecnologias e boas práticas do mercado.<br>
-Meu objetivo é capacitar desenvolvedores, proporcionando uma experiência<br>
-de aprendizado prática e alinhada às demandas do setor.<br>
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23593d88.svg?style=for-the-badge&logo=zustand&logoColor=white)
+📚 Atuo com a sustentação e a ativação de uma aplicação finançeira Whitelabel de InternetBanking chamada Bankeiro, e responsável por ensinar e acompanhar os novos membros do projeto.<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/aws-%2523323330.svg?style=for-the-badge&logo=aws&logoColor=%2523F7DF1E) ![Jira](https://img.shields.io/badge/jira-%23007ACC.svg?style=for-the-badge&logo=jira&logoColor=%2523F7DF1E)
 <br>
 <br>
 
-## 🚀 Desenvolvedor Moble MBLabs
-<img align="right" alt="" height="150px" src="https://private-user-images.githubusercontent.com/94801880/412525407-5f63f5a2-6079-4771-ad8f-c0786604f970.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1NjYzNjEsIm5iZiI6MTc0MjU2NjA2MSwicGF0aCI6Ii85NDgwMTg4MC80MTI1MjU0MDctNWY2M2Y1YTItNjA3OS00NzcxLWFkOGYtYzA3ODY2MDRmOTcwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE0MDc0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyZGY4OTlkZDU5ZGI0MTRlNjk2YTI1Nzk1NDRiMDI0MTlhMzFlN2YxMjIzZDRmNGI2MzE1ZTU1OGRiMTFkYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IgZU0gkdF95ep9uCgATSkznvpgUZVUtwfMYx3KJnIjc">
+## 🚀 Desenvolvedor Backend na empresa Bankeiro
 
-📚 Sou desenvolvedor mobile Pleno 2 na MB Labs, trabalho em uma aplicação finançeira Whitelabel de InternetBanking chamda Bankeiro.<br><br>
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23593d88.svg?style=for-the-badge&logo=zustand&logoColor=white)
+📚 Sou desenvolvedor backend Pleno no Bankeiro, trabalho com o desenvolvimento de novas features e integração com Apis de novos parceiros.<br><br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jest](https://img.shields.io/badge/JEST-%2523007ACC.svg?style=for-the-badge&logo=jest&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br>
 <br>
 
